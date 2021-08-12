@@ -4,11 +4,11 @@
 ___
 ## Course Information
 
-**Instructor:** Dr. Nathan Kelber
+**Instructor:** Kate Boyd
 
 **Office Hours:** 
 
-**Email Address:** nathan.kelber@ithaka.org
+**Email Address:** boydkf@mailbox.sc.edu
 
 **Meeting Times:** Tuesdays/Thursdays
 * Morning Section (10am-11:30am) EST
