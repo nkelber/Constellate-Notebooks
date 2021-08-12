@@ -6,8 +6,6 @@ ___
 
 **Instructor:** Kate Boyd
 
-**Office Hours:** 
-
 **Email Address:** boydkf@mailbox.sc.edu
 
 **Meeting Times:** Tuesdays/Thursdays
