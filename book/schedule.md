@@ -7,6 +7,8 @@ Introduction (30 minutes)
 * [Why Learn Text Analysis? for Business and Data Science](./why-ds.md) 
 * [Getting Started with Jupyter Notebooks](../getting-started-with-jupyter.ipynb)
 
+
+
 Gather Data (20 minutes)
 * [The Constellate Dataset Builder](https://tdm-pilot.org/builder/)
 
